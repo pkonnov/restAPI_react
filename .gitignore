@@ -1,3 +1,9 @@
 Pipfile.lock
 .db*
-htmlcov/*
+/htmlcov
+/coverage
+/build
+/node_modules
+yarn-debug.log*
+npm-debug.log*
+yarn-debug.log*
